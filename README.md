@@ -47,7 +47,7 @@ A production-style **Retrieval-Augmented Generation** pipeline that combines den
 ### Setup
 
 ```bash
-git clone https://github.com/<your-username>/advanced-rag-assistant.git
+git clone https://github.com/VipraSharma270/advanced-rag-assistant.git
 cd advanced-rag-assistant
 
 python -m venv .venv
